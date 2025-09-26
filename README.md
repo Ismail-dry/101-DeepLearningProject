@@ -61,3 +61,6 @@ Sonuçlar genel olarak:
 -Doğruluk (Accuracy): %97+
 -F1-Score: %96+
 -ROC-AUC: 0.98+
+
+
+# Kaggle Linki :  https://www.kaggle.com/code/smailtrkan/101-project/edit
